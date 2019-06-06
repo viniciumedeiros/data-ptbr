@@ -1,6 +1,6 @@
 # Converter datas para formato brasileiro (pt-br)
-<p>Funções que facilitam a conversão de datas para o formato brasileiro
-Uma dúvida recorrente é a conversão de data de EN para PT-BR, uma tarefa corriqueira em nosso dia a dia.
+<p>Funções que facilitam a conversão de datas para o formato brasileiro</p>
+<p>Uma dúvida recorrente é a conversão de data de EN para PT-BR, uma tarefa corriqueira em nosso dia a dia.</br>
 Comumente trabalhamos no formato EN para armazenar a informação no banco de dados, porém em determinados casos temos a necessidade de converter a data para PT_BR.</p>
 
 ## Formatos de saída
